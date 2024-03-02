@@ -1,0 +1,22 @@
+"use strict" // treat all JS code as newer version
+
+//alert(3 + 3) // we are using node js not browser that why i we cannot use alert like this
+
+let name = "Satya"
+let age = 25
+let isLogin = false
+let nullCheck = null
+let undefinedCheck
+
+// number => 2 to power 53
+// bigInt
+// string ==> ""
+// Boolean ==> True / false
+// null ==> standalone value (representation of empty)
+// undefined ==> 
+// symbol ==> Uniqueness
+
+// Object ==>
+
+console.log(typeof null)// ==> output will be object
+console.log(typeof undefined) // output will be undefined
